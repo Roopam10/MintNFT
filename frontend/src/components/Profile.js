@@ -7,17 +7,22 @@ const Profile=()=>{
       <p>Email: roopampatil10@gmail.com</p>
       <p>Phone: (+91) 7089650686</p>
 
-      <h2>Internship</h2>
+      <h2>Exp</h2>
       <p>
-       
-      I have interned in USA based startup Botzee. Now I am employed here as a Fulltimer. I am glad I got
-this opportunity. We are a small company but solving big challenges.I
-am currently working on Hotel reservation mobile application which will
-be launched on playstore and appstore. The tech stack which we have
-used here is django, angular, ionic, sql. I have handled all the backend
-application and mostly worked on django. I have implemented
-geofencing with the help of angular. This technology issues Room
-key(QR code) to the user once it is inside the hotel premises.
+      By leveraging my expertise in React, Next.js, GraphQL, and REST API development, I have played an integral role in
+shaping the future of our AI-driven video editing tool, empowering users to create captivating content with ease and
+efficiency.Spearheaded the development of various components and features of the AI tool, from inception to execution,
+utilizing React, Next.js, GraphQL, and REST APIs.
+Played a pivotal role in the integration of Remotion, leveraging its capabilities to empower users with dynamic
+video editing functionalities.
+Collaborated closely with cross-functional teams to gather requirements and translate them into scalable and
+efficient code solutions.
+Continuously optimized performance and user experience through rigorous testing, debugging, and iteration.
+Actively contributed to the evolution of the product roadmap, incorporating user feedback and industry trends to
+drive innovation.
+Successfully designed and implemented multiple pages and modules within the product from scratch, showcasing
+strong technical expertise and problem-solving skills.
+  
       </p>
 
       <h2>Education</h2>
